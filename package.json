@@ -1,0 +1,11 @@
+{
+  "name": "m3u8-subtitles-to-file",
+  "version": "1.0.0",
+  "description": "Simple ZX script to fetch subtitles from .m3u8 link and combine into one .srt file with ffmpeg.",
+  "author": "jutiss",
+  "license": "ISC",
+  "dependencies": {
+    "m3u8-parser": "^4.7.1",
+    "slugify": "^1.6.5"
+  }
+}
